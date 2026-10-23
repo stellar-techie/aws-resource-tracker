@@ -1,0 +1,14 @@
+==============================================
+ AWS Resource Usage Report - 2026-10-24 18:00:01
+==============================================
+
+--- S3 Buckets ---
+2026-01-11 10:15:32 my-demo-bucket
+
+--- EC2 Instances (IDs) ---
+i-0abc123def4567890
+
+--- Lambda Functions ---
+
+--- IAM Users ---
+devops-user

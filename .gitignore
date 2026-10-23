@@ -1,0 +1,8 @@
+# Don't push real reports or credentials
+reports/resource_report_*.txt
+reports/cron.log
+.aws/
+*.pem
+.env
+.DS_Store
+docs/

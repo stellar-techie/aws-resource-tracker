@@ -1,0 +1,3 @@
+# Run the tracker every day at 6 PM and append logs
+# Edit with: crontab -e   (change the path to where you cloned the repo)
+0 18 * * * /home/ubuntu/aws-resource-tracker/scripts/aws_resource_tracker.sh >> /home/ubuntu/aws-resource-tracker/reports/cron.log 2>&1
